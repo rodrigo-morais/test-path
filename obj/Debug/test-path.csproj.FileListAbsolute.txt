@@ -1,1 +1,6 @@
 C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-path\bin\Debug\test-path.exe.config
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-path\bin\Debug\test-path.exe
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-path\bin\Debug\test-path.pdb
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-path\obj\Debug\test-path.csprojResolveAssemblyReference.cache
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-path\obj\Debug\test-path.exe
+C:\Dados\RMMSoftware\Projetos\Exemplos\Tests Interview\test-path\obj\Debug\test-path.pdb
